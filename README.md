@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eduardo Saito (BRA)
-- 👀 I’m interested in Data Science, e-Gov, Automotive and Logistic
+- 👀 I’m interested in Data Science, e-Gov/Open Gov, Automotive and Logistic
 - 🌱 I’m just started learning Data Science
-- 💞️ I’m looking to collaborate on e-Gov (BRA)
+- 💞️ I’m looking to collaborate on e-Gov/Open Gov (BRA)
 - 📫 How to reach me https://www.linkedin.com/in/eduardo-nobuyuki-saito/
 
 <!---
